@@ -1,6 +1,6 @@
 # A simple Gitpod.io workspace
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/ItsVixano/test-gitpod)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/TheSanty/test-gitpod)
 
 **Brought by** @ItsVixano
 

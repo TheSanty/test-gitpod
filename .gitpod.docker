@@ -1,4 +1,4 @@
-FROM ubuntu:jammy
+FROM fr3akyphantom/droid-builder:latest
 USER root
 # Install few essential stuffs for gitpod
 RUN apt-get update -y \
